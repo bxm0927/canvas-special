@@ -1,0 +1,24 @@
+/*   维护：白小明
+ *   版本：v1.0 | 2016.12.01
+ *   理念：清除和重置是紧密不可分的
+ *   特色：适应中文，基于最新主流浏览器*/
+
+/* 清除内外边距 */
+@charset "utf-8";
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, 
+pre,dl, dt, dd, ul, ol, li, 
+fieldset, lengend, button, input, textarea, 
+th, td { margin: 0; padding: 0; }
+
+/* 重置格式元素 */
+ul, ol { list-style: none; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+q:before, q:after { content: ''; }
+
+/* 重置表单元素 */
+legend { color: #000; } /* for ie6 */
+button, input, select, textarea { font-size: 100%; } /* 使得表单元素在 ie 下能继承字体大小 */ 
+
+/* 重置表格元素 */
+table { border-collapse: collapse; border-spacing: 0; }

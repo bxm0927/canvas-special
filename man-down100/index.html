@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>是男人就下100层</title>
+	<link rel="stylesheet" type="text/css" href="css/myreset.css">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+	<div class="main" id="js_main" tabindex="-1" focu>
+		<canvas id="canvas" width="320" height="480">
+			你的浏览器不支持 canvas 标签，请更新你的浏览器！
+		</canvas>
+
+		<div class="life">
+			<label id="js_life"></label>
+		</div>
+
+		<div class="level">
+			第 <span  id="js_level">0</span> 层
+		</div>
+
+		<div class="start_flush" id="js_start_flush">
+			<a class="start_btn" id="js_start_btn" href="javascript:void(0)" onclick="Main.start()" style="display:none;"></a>
+			<span id="js_start_loading" style="position:absolute;left:241px;top:417px;font-size:16px;font-weight:bolder;">加载中...</span>
+		</div>
+
+		<div class="end_flush" id="js_end_flush">
+			<span class="icon"></span>
+			<p></p>
+			<a href="javascript:void(0)" class="replay_btn" onclick="Main.replay()"></a>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="js/wfn.js"></script>
+    <script type="text/javascript" src="js/person.js"></script>
+    <script type="text/javascript" src="js/block.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+</body>
+</html>

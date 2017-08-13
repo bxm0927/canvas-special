@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+
+        <meta http-equiv="expires" content="-1">
+        <title>看你有多色</title>
+        <link rel="stylesheet" type="text/css" href="./css/m.min.css">
+        <script src="lib/libs.min.js"></script>
+        <script src="lib/underscore.js"></script>
+
+    </head>
+<body ryt12819="1">
+    <div class="grid">
+        <div class="page hide" id="loading">
+            <div class="loading-txt">加载中...</div>
+        </div>
+        <div class="page hide" id="index">
+            <h1>看你有多色</h1>
+
+            <div id="help">找出所有色块里颜色不同的一个</div>
+            <div class="btns">
+                <button data-type="color" class="btn btn-play">
+                    普通模式
+                </button>
+                <button data-type="color2" class="btn btn-play btn-new">
+                    双飞模式
+                </button>
+            </div>
+        </div>
+        <div class="page hide" id="room">
+            <header>
+                <span class="lv">
+                    得分:
+                    <em>
+                        1
+                    </em>
+                </span>
+                <span class="time">
+                </span>
+                <span class="btn btn-pause">
+                    暂停
+                </span>
+            </header>
+            <div id="box" class="lv1">
+            </div>
+        </div>
+        <div class="page hide" id="dialog">
+            <div class="inner">
+                <div class="content gameover">
+                    <div class="inner-content">
+                        <h3></h3>
+                        <p id="tips">再得<em id="_score"></em>分，就可再打败<em id="_num"></em>万人</p>
+                        <div class="btn-wrap clearfix">
+                            <button id="mode" class="btn btn-play" data-type="color">
+                                普通场
+                            </button>
+                            <button class="btn btn-restart">
+                                重来
+                            </button>
+                        </div>
+                        <a href="http://mp.weixin.qq.com/s?__biz=MjM5NzAzODA0Ng==&mid=200533929&idx=1&sn=95644f093189b86639325100da7f0c2a#rd" target="_blank" class="btn btn-boyaa">
+                            更多游戏
+                        </a>
+                    </div>
+                </div>
+                <div class="content pause">
+                    <div class="inner-content">
+                        <h3>
+                            游戏暂停
+                        </h3>
+                        <div class="btn-wrap clearfix">
+                            <button class="btn btn-resume">
+                                继续
+                            </button>
+                            <button class="btn btn-restart">
+                                重来
+                            </button>
+                        </div>
+                        <a href="http://mp.weixin.qq.com/s?__biz=MjM5NzAzODA0Ng==&mid=200533929&idx=1&sn=95644f093189b86639325100da7f0c2a#rd" target="_blank" class="btn btn-boyaa">
+                            更多游戏
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+        <script src="js/game.js"></script>
+        <script src="js/app.js"></script>
+        <script src="js/color1.js"></script>
+</body></html>

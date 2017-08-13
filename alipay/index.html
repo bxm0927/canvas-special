@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		html,body {
+			height: 100%;
+		}
+		body {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background: #1e577e;
+			overflow: hidden;
+		}
+		.main {
+			width: 200px;
+			height: 200px;
+			position: relative;
+		}
+		.main>div {
+			width: 200px;
+			height: 200px;
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
+		.center {
+			cursor: pointer;
+		}
+
+		/* CSS3放大特效 */
+		.circle {
+			border: 1px solid #ccc;
+			border-radius: 50%;
+			opacity: 0;
+		}
+		.circle.go {
+			/*animation: change 1s linear infinite;*/
+			animation-name: change;
+			animation-duration: 3s;
+			animation-timing-function: linear;
+			animation-iteration-count: infinite;
+			/*animation-delay: 1s;*/
+		}
+		@keyframes change {
+			0% {
+				transform: scale(1,1);
+				opacity: 0.4;
+			}
+			100% {
+				transform: scale(4,4);
+				opacity: 0;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="main">
+		<div class="circle"></div>
+		<div class="circle"></div>
+		<div class="circle"></div>
+		<div class="circle"></div>
+		<div class="circle"></div>
+		<div class="center">
+			<img src="靶标系统.png" alt="">
+		</div>
+
+		<!-- <audio src=""></audio> -->
+	</div>
+
+	<script type="text/javascript">
+		document.querySelector(".center").onclick = function () {
+			var circle = document.querySelectorAll(".circle");
+			for (var i = 0; i < circle.length; i++) {
+				circle[i].style.animationDelay = i *0.6 + "s";
+				circle[i].classList.add('go');
+			}
+		}
+
+		// var audio = document.querySelector("audio");
+		// audio.loop = "loop";
+		// audio.play();
+	</script>
+</body>
+</html>

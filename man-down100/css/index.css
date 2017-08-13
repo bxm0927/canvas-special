@@ -1,0 +1,200 @@
+.main{
+    background-color:#9dd9ed;
+    background-image:-webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        color-stop(0, #01b9f5),
+        color-stop(0.51, #9dd9ed)
+    );
+    /*
+    background-attachment -- 定义背景图片随滚动轴的移动方式
+    取值: scroll | fixed | inherit
+    scroll: 随着页面的滚动轴背景图片将移动
+    fixed: 随着页面的滚动轴背景图片不会移动
+    inherit: 继承初始值: scroll
+    */
+    background-attachment:fixed;
+    height:480px;
+    width:320px;
+    position: relative;
+    left:50%;
+    margin-left:-160px;
+}
+.life{
+    width:100px;
+    height:10px;
+    position: absolute;
+    /*
+        引用方法
+        z-index : auto | number
+        auto:默认值。
+        number: 无单位的整数值，可为负数 。
+        z-index值较大的元素将叠加在z-index值较小的元素之上。
+        对于未指定此属性的定位对象，z-index 值为正数的对象会在其之上，
+        而 z-index 值为负数的对象在其之下。
+    
+    */
+    z-index:2;
+    left:10px;
+    top:10px;
+    border:1px solid #ff9900;
+    border-radius: 7px;
+    padding:1px;
+    background:white;
+
+}
+.life label{
+    /*行内块*/
+    display: inline-block;
+    width: 0px;
+    height:10px;
+    background-color: #ff9900;
+    border-radius: 7px;
+    float:left;
+}
+.level{
+    position: absolute;
+    z-index:2;
+    color:white;
+    font-size:14px;
+    right:10px;
+    top:10px;
+    font-weight:bolder;
+}
+.level span{
+    color: #fb0;
+    font-weight: bolder;
+}
+.start_flush{
+    position: absolute;
+    left:0;
+    top:0;
+    width:320px;
+    height:480px;
+    /*
+    */
+    background:url(../img/game_bg.png) no-repeat;
+    z-index: 10;
+    background-size: 320px 480px;
+}
+.start_btn{
+    display: inline-block;
+    position: absolute;
+    width:60px;
+    height:60px;
+    border:4px solid #364348;
+    border-radius: 32px;
+    left:239px;
+    top:394px;
+}
+.start_btn:before{
+    content:"";
+    display: inline-block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    border-top: 20px solid transparent;
+    border-left: 40px solid #feff01;
+    border-bottom: 20px solid transparent;
+    top:9px;
+    left:15px;
+}
+.start_btn:active:before{
+    border-left-color: #fb0;
+}
+.end_flush{
+    position: absolute;
+    left:30px;
+    top:130px;
+    width:260px;
+    height:123px;
+    display: none;/*block none*/
+    background-color: white;
+    border: 1px solid #589300;
+    border-radius: 20px;
+}
+.end_flush .icon{
+    display:inline-block;
+    float:left;
+    width:55px;
+    height:53px;
+    background:url(../img/baozi.png) no-repeat;
+    background-size:55px 106px;
+    margin: 12px 0 0 12px;/*左上右下*/
+}
+.end_flush .icon.happy{
+    /*
+    不是截取，是位移，坐标是从元素左上方开始算的，第一个0是左边0，第二个是上面0
+    0 0 就是不截取 
+    0 20px 就是左边不动，上面往下移动背景图 20px
+    自己试试就明白了。
+    追问那要是若是0 -30，左边不动，-30该从哪里算起呢?
+    回答  往上方移动30px
+    */
+    background:url(../img/baozi.png) 0 -54px no-repeat;
+    background-size:55px 107px;
+}
+.end_flush p{
+    display: inline-block;
+    float:right;
+    width:170px;
+    color:#31454c;
+    margin-right:10px;
+    font-size: 16px;
+    font-weight: bolder;
+    line-height:26px;
+}
+.end_flush p label{
+    color:#ff9900;
+}
+.end_flush .replay_btn{
+    display: inline-block;
+    position: absolute;
+    color:#fb0;
+    /*
+     是给文字添加阴影效果 4个值的含义分别是：
+    0：阴影水平偏移值（可取正负值）；
+    1px：阴影垂直偏移值（可取正负值）；
+    1px：阴影模糊值；
+    rgba(0,0,0,0.8)：阴影颜色；
+    */
+    text-shadow:1px 1px 1px #333333;
+    bottom:20px;
+    right:20px;
+    font-size:16px;
+    font-weight:bolder;
+    /*
+    CSS文字修饰为无；一般用于设置清除超链接的默认下划线
+    文字连接的修饰：显示无
+    */
+    text-decoration:none;
+    line-height:23px;
+}
+.end_flush .replay_btn:after{
+    content:"";
+    display:inline-block;
+    /*
+    background:url(../images/list01.png) no-repeat 0 center;
+    的意思是 图像地址 不重复 水平位置0 垂直位置居中
+    0 center 的意思就是 水平位置0 垂直位置居中
+    -4px -3px 的意思就是 水平位置-4px  垂直位置-3px  
+    */
+    background:url(../img/icons_btn.png) no-repeat right 0;
+    /*
+    background-size可以设置2个值，1个为必填，1个为可选。
+　　    其中第1个值用于指定背景图的width，第2个值用于指定背景图的height，
+            如果只给background-size设置1个值，则第2个值默认为auto（cover和contain特定值除外）。
+    cover: 保持图像本身的宽高比例，将图片缩放到正好完全覆盖定义背景的区域；
+    contain: 保持图像本身的宽高比例，将图片缩放到宽度或高度正好适应定义背景的区域        
+    */
+    background-size: 19px 108px;
+    width:19px;
+    height:23px;
+    float:right;
+    /*
+    这个意思距离右边补距5像素，可跟百分比如（padding-right:5%; 距离右边补5%的距离）
+    */
+    padding-right: 5px;
+}
