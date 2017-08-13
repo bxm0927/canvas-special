@@ -9,7 +9,7 @@
 
 ### 1. 尤雨溪个人主页炫彩三角纽带效果，点击还可变换
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/evan-you) 、 [Demo演示](https://bxm0927.github.io/canvas-special/evan-you/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/evan-you/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/13451038.jpg">
@@ -17,7 +17,7 @@
 
 ### 2. 知乎登录注册页动态离子背景效果
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/zhihu) 、 [Demo演示](https://bxm0927.github.io/canvas-special/zhihu/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/zhihu/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/46746967.jpg">
@@ -25,7 +25,7 @@
 
 ### 3. 基于 canvas 的五子棋完整功能实现
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/five-chess) 、 [Demo演示](https://bxm0927.github.io/canvas-special/five-chess/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/five-chess/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/73389448.jpg">
@@ -33,7 +33,7 @@
 
 ### 4. 基于 canvas 的《是男人就下100层》小游戏完美实现
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/man-down100) 、 [Demo演示](https://bxm0927.github.io/canvas-special/man-down100/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/man-down100/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/7179685.jpg">
@@ -41,7 +41,7 @@
 
 ### 5. 毛笔字书写田字格，可以写字
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/brush) 、 [Demo演示](https://bxm0927.github.io/canvas-special/brush/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/brush/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/46818247.jpg">
@@ -49,7 +49,7 @@
 
 ### 6. 随心而动，随刃而行。输入文字显示动画粒子特效
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/side-text) 、 [Demo演示](https://bxm0927.github.io/canvas-special/side-text/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/side-text/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/63436276.jpg">
@@ -57,7 +57,7 @@
 
 ### 7. 鼠标移动炫彩小球
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/globule) 、 [Demo演示](https://bxm0927.github.io/canvas-special/globule/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/globule/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/75085934.jpg">
@@ -66,7 +66,7 @@
 
 ### 8. 2048
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/game2048) 、 [Demo演示](https://bxm0927.github.io/canvas-special/game2048/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/game2048/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/62175805.jpg">
@@ -74,7 +74,7 @@
 
 ### 9. 贪吃蛇
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/snake) 、 [Demo演示](https://bxm0927.github.io/canvas-special/snake/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/snake/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/97986004.jpg">
@@ -82,7 +82,7 @@
 
 ### 10. 看你有多色
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/look-def-color) 、 [Demo演示](https://bxm0927.github.io/canvas-special/look-def-color/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/look-def-color/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/52916235.jpg">
@@ -90,7 +90,7 @@
 
 ### 11. 坦克大战
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/tank) 、 [Demo演示](https://bxm0927.github.io/canvas-special/tank/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/tank/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/61788877.jpg">
@@ -98,7 +98,7 @@
 
 ### 12. 宇宙行星旋转特效
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/universe) 、 [Demo演示](https://bxm0927.github.io/canvas-special/universe/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/universe/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/42596452.jpg">
@@ -106,7 +106,7 @@
 
 ### 13. 支付宝咻咻咻动画特效
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/alipay) 、 [Demo演示](https://bxm0927.github.io/canvas-special/alipay/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/alipay/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/89320322.jpg">
@@ -114,7 +114,7 @@
 
 ### 14. 程序员表白代码
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/love-time) 、 [Demo演示](https://bxm0927.github.io/canvas-special/love-time/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/love-time/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/58827874.jpg">
@@ -122,7 +122,7 @@
 
 ### 15. 心形文字
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/heart) 、 [Demo演示](https://bxm0927.github.io/canvas-special/heart/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/heart/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/10558210.jpg">
@@ -130,7 +130,7 @@
 
 ### 16. 照片墙
 
-[GitHub源码](https://github.com/bxm0927/canvas-special/photo-wall) 、 [Demo演示](https://bxm0927.github.io/canvas-special/photo-wall/index.html)
+[GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/photo-wall/index.html)
 
 <div  align="center">
   <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/44601791.jpg">
