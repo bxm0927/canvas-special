@@ -7,6 +7,10 @@
 
 **贴士**：全部例子都分享在我的 GayHub - https://github.com/bxm0927/canvas-special
 
+<div align="center">
+  [![](https://badge.juejin.im/entry/59901e12f265da3e207709b0/likes.svg?style=plastic)](https://juejin.im/entry/59901e12f265da3e207709b0/detail)
+</div>
+
 ### 1. 尤雨溪个人主页炫彩三角纽带效果，点击还可变换
 
 [GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/evan-you/index.html)
