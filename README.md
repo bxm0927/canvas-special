@@ -7,7 +7,7 @@
 
 **贴士**：全部例子都分享在我的 GayHub - https://github.com/bxm0927/canvas-special
 
-![https://juejin.im/entry/59901e12f265da3e207709b0/detail](https://badge.juejin.im/entry/59901e12f265da3e207709b0/likes.svg?style=plastic)
+<a href="https://juejin.im/entry/59901e12f265da3e207709b0/detail"><img src="https://badge.juejin.im/entry/59901e12f265da3e207709b0/likes.svg?style=plastic"></a>
 
 ### 1. 尤雨溪个人主页炫彩三角纽带效果，点击还可变换
 
