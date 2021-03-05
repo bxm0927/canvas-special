@@ -8,97 +8,97 @@
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/evan-you) | [演示](https://bxm0927.github.io/canvas-special/evan-you/index.html) ]
 
-![](../canvas-special/assets/evan-you.png)
+![](./assets/evan-you.png)
 
 ## 2. 知乎登录注册页动态离子背景效果
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/zhihu) | [演示](https://bxm0927.github.io/canvas-special/zhihu/index.html) ]
 
-![](../canvas-special/assets/zhihu.png)
+![](./assets/zhihu.png)
 
 ## 3. 基于 canvas 的五子棋完整功能实现
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/five-chess) | [演示](https://bxm0927.github.io/canvas-special/five-chess/index.html) ]
 
-![](../canvas-special/assets/five-chess.png)
+![](./assets/five-chess.png)
 
 ## 4. 基于 canvas 的《是男人就下100层》小游戏完美实现
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/man-down100) | [演示](https://bxm0927.github.io/canvas-special/man-down100/index.html) ]
 
-![](../canvas-special/assets/man-down100.png)
+![](./assets/man-down100.png)
 
 ## 5. 毛笔字书写田字格，可以写字
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/brush) | [演示](https://bxm0927.github.io/canvas-special/brush/index.html) ]
 
-![](../canvas-special/assets/brush.png)
+![](./assets/brush.png)
 
 ## 6. 随心而动，随刃而行。输入文字显示动画粒子特效
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/side-text) | [演示](https://bxm0927.github.io/canvas-special/side-text/index.html) ]
 
-![](../canvas-special/assets/side-text.png)
+![](./assets/side-text.png)
 
 ## 7. 鼠标移动炫彩小球
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/globule) | [演示](https://bxm0927.github.io/canvas-special/globule/index.html) ]
 
-![](../canvas-special/assets/globule.png)
+![](./assets/globule.png)
 
 ## 8. 2048
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/game2048) | [演示](https://bxm0927.github.io/canvas-special/game2048/index.html) ]
 
-![](../canvas-special/assets/game2048.png)
+![](./assets/game2048.png)
 
 ## 9. 贪吃蛇
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/snake) | [演示](https://bxm0927.github.io/canvas-special/snake/index.html) ]
 
-![](../canvas-special/assets/snake.png)
+![](./assets/snake.png)
 
 ## 10. 看你有多色
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/look-def-color) | [演示](https://bxm0927.github.io/canvas-special/look-def-color/index.html) ]
 
-![](../canvas-special/assets/look-def-color.png)
+![](./assets/look-def-color.png)
 
 ## 11. 坦克大战
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/tank) | [演示](https://bxm0927.github.io/canvas-special/tank/index.html) ]
 
-![](../canvas-special/assets/tank.png)
+![](./assets/tank.png)
 
 ## 12. 宇宙行星旋转特效
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/universe) | [演示](https://bxm0927.github.io/canvas-special/universe/index.html) ]
 
-![](../canvas-special/assets/universe.png)
+![](./assets/universe.png)
 
 ## 13. 支付宝咻咻咻动画特效
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/alipay) | [演示](https://bxm0927.github.io/canvas-special/alipay/index.html) ]
 
-![](../canvas-special/assets/alipay.png)
+![](./assets/alipay.png)
 
 ## 14. 程序员表白代码
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/love-time) | [演示](https://bxm0927.github.io/canvas-special/love-time/index.html) ]
 
-![](../canvas-special/assets/love-time.png)
+![](./assets/love-time.png)
 
 ## 15. 心形文字
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/heart) | [演示](https://bxm0927.github.io/canvas-special/heart/index.html) ]
 
-![](../canvas-special/assets/heart.png)
+![](./assets/heart.png)
 
 ## 16. 照片墙
 
 [ [源码](https://github.com/bxm0927/canvas-special/blob/master/photo-wall) | [演示](https://bxm0927.github.io/canvas-special/photo-wall/index.html) ]
 
-![](../canvas-special/assets/photo-wall.png)
+![](./assets/photo-wall.png)
 
 ## License
 
