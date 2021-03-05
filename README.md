@@ -1,80 +1,107 @@
+# 超多经典 canvas 实例
 
-## 超多经典 canvas 实例
-
-**普及**：`<canvas>` 元素用于在网页上绘制图形。这是一个图形容器，您可以控制其每一像素，必须使用脚本来绘制图形。
+**普及**：`<canvas>` 元素用于在网页上绘制图形。这是一个 HTML 图形容器，必须使用脚本来绘制图形。
 
 **注意**：IE 8 以及更早的版本不支持 `<canvas>` 元素。
 
-**贴士**：全部例子都分享在我的 GayHub - https://github.com/bxm0927/canvas-special
+## 1. 尤雨溪个人主页炫彩三角纽带效果，点击可变换
 
-### 1. 尤雨溪个人主页炫彩三角纽带效果，点击还可变换
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/evan-you) | [演示](https://bxm0927.github.io/canvas-special/evan-you/index.html) ]
 
-[Demo演示](https://bxm0927.github.io/canvas-special/evan-you/index.html)
+![](../canvas-special/assets/evan-you.png)
 
-### 2. 知乎登录注册页动态离子背景效果
+## 2. 知乎登录注册页动态离子背景效果
 
-[Demo演示](https://bxm0927.github.io/canvas-special/zhihu/index.html)
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/zhihu) | [演示](https://bxm0927.github.io/canvas-special/zhihu/index.html) ]
 
-### 3. 基于 canvas 的五子棋完整功能实现
+![](../canvas-special/assets/zhihu.png)
 
-[Demo演示](https://bxm0927.github.io/canvas-special/five-chess/index.html)
+## 3. 基于 canvas 的五子棋完整功能实现
 
-### 4. 基于 canvas 的《是男人就下100层》小游戏完美实现
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/five-chess) | [演示](https://bxm0927.github.io/canvas-special/five-chess/index.html) ]
 
-[Demo演示](https://bxm0927.github.io/canvas-special/man-down100/index.html)
+![](../canvas-special/assets/five-chess.png)
 
-### 5. 毛笔字书写田字格，可以写字
+## 4. 基于 canvas 的《是男人就下100层》小游戏完美实现
 
-[Demo演示](https://bxm0927.github.io/canvas-special/brush/index.html)
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/man-down100) | [演示](https://bxm0927.github.io/canvas-special/man-down100/index.html) ]
 
-### 6. 随心而动，随刃而行。输入文字显示动画粒子特效
+![](../canvas-special/assets/man-down100.png)
 
-[Demo演示](https://bxm0927.github.io/canvas-special/side-text/index.html)
+## 5. 毛笔字书写田字格，可以写字
 
-### 7. 鼠标移动炫彩小球
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/brush) | [演示](https://bxm0927.github.io/canvas-special/brush/index.html) ]
 
-[Demo演示](https://bxm0927.github.io/canvas-special/globule/index.html)
+![](../canvas-special/assets/brush.png)
 
-### 8. 2048
+## 6. 随心而动，随刃而行。输入文字显示动画粒子特效
 
-[Demo演示](https://bxm0927.github.io/canvas-special/game2048/index.html)
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/side-text) | [演示](https://bxm0927.github.io/canvas-special/side-text/index.html) ]
 
-### 9. 贪吃蛇
+![](../canvas-special/assets/side-text.png)
 
-[Demo演示](https://bxm0927.github.io/canvas-special/snake/index.html)
+## 7. 鼠标移动炫彩小球
 
-### 10. 看你有多色
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/globule) | [演示](https://bxm0927.github.io/canvas-special/globule/index.html) ]
 
-[Demo演示](https://bxm0927.github.io/canvas-special/look-def-color/index.html)
+![](../canvas-special/assets/globule.png)
 
-### 11. 坦克大战
+## 8. 2048
 
-[Demo演示](https://bxm0927.github.io/canvas-special/tank/index.html)
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/game2048) | [演示](https://bxm0927.github.io/canvas-special/game2048/index.html) ]
 
-### 12. 宇宙行星旋转特效
+![](../canvas-special/assets/game2048.png)
 
-[Demo演示](https://bxm0927.github.io/canvas-special/universe/index.html)
+## 9. 贪吃蛇
 
-### 13. 支付宝咻咻咻动画特效
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/snake) | [演示](https://bxm0927.github.io/canvas-special/snake/index.html) ]
 
-[Demo演示](https://bxm0927.github.io/canvas-special/alipay/index.html)
+![](../canvas-special/assets/snake.png)
 
-### 14. 程序员表白代码
+## 10. 看你有多色
 
-[Demo演示](https://bxm0927.github.io/canvas-special/love-time/index.html)
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/look-def-color) | [演示](https://bxm0927.github.io/canvas-special/look-def-color/index.html) ]
 
-### 15. 心形文字
+![](../canvas-special/assets/look-def-color.png)
 
-[Demo演示](https://bxm0927.github.io/canvas-special/heart/index.html)
+## 11. 坦克大战
 
-### 16. 照片墙
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/tank) | [演示](https://bxm0927.github.io/canvas-special/tank/index.html) ]
 
-[Demo演示](https://bxm0927.github.io/canvas-special/photo-wall/index.html)
+![](../canvas-special/assets/tank.png)
+
+## 12. 宇宙行星旋转特效
+
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/universe) | [演示](https://bxm0927.github.io/canvas-special/universe/index.html) ]
+
+![](../canvas-special/assets/universe.png)
+
+## 13. 支付宝咻咻咻动画特效
+
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/alipay) | [演示](https://bxm0927.github.io/canvas-special/alipay/index.html) ]
+
+![](../canvas-special/assets/alipay.png)
+
+## 14. 程序员表白代码
+
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/love-time) | [演示](https://bxm0927.github.io/canvas-special/love-time/index.html) ]
+
+![](../canvas-special/assets/love-time.png)
+
+## 15. 心形文字
+
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/heart) | [演示](https://bxm0927.github.io/canvas-special/heart/index.html) ]
+
+![](../canvas-special/assets/heart.png)
+
+## 16. 照片墙
+
+[ [源码](https://github.com/bxm0927/canvas-special/blob/master/photo-wall) | [演示](https://bxm0927.github.io/canvas-special/photo-wall/index.html) ]
+
+![](../canvas-special/assets/photo-wall.png)
 
 ## License
 
 The code is available under the [MIT license](https://opensource.org/licenses/MIT).
 
-<marquee>不断更新，欢迎补充！</marquee>
-
-![](http://oph264zoo.bkt.clouddn.com/17-8-11/10545126.jpg)
+部分收集于网络，侵删。
